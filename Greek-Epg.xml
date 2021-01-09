@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- service references can be found in /etc/enigma2/lamedb -->
+<channels>
+<!-- sirius powervu -->
+<channel id="cyta.discovery.cy">1:0:1:C8:1:5E:30B022:0:0:0:</channel> <!-- Discovery Central Europe-->
+<channel id="cyta.animalplanet.cy">1:0:1:64:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
+<channel id="cyta.animalplanet.cy">1:0:1:65:1:5E:30B022:0:0:0:</channel> <!-- Animal Planet Europe-->
+<channel id="cyta.discoveryscience.cy">1:0:1:385:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
+<channel id="cyta.discoveryscience.cy">1:0:1:384:1:5E:30B022:0:0:0:</channel> <!-- Science Europe-->
+<channel id="cyta.id.cy">1:0:1:190:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
+<channel id="cyta.id.cy">1:0:1:191:1:5E:30B022:0:0:0:</channel> <!-- ID Xtra Europe-->
+<channel id="cyta.tlc.cy">1:0:1:B54:1:5E:30B048:0:0:0:</channel> <!-- TLC Pan Regional-->
+<channel id="cyta.id.cy">1:0:1:12C:1:5E:30B022:0:0:0:</channel> <!-- ID  -->
+<!-- sirius other -->
+<channel id="ViasatHistory.gr">1:0:1:195A:14:56:300000:0:0:0:</channel> <!-- Viasat History (FSS)-->
+<channel id="ViasatExplore.gr">1:0:1:190A:14:56:300000:0:0:0:</channel> <!-- Viasat Explore (FSS)-->
+<channel id="ViasatNature.gr">1:0:1:7A8:1D:56:300000:0:0:0:</channel> <!-- Viasat Nature (FSS)-->
+<channel id="EuroSport2.gr">1:0:19:125C:1:5E:30B048:0:0:0:</channel> <!--EuroSport2HD.gr-->
+<!-- thor powervu -->
+<channel id="cyta.discovery.cy">1:0:1:44C:2:5E:E08B00F:0:0:0:</channel> <!-- Discovery Central Europe HD-->
+<channel id="cyta.animalplanet.cy">1:0:1:A2E:2:5E:E08B00F:0:0:0:</channel> <!-- Animal Planet HD-->
+<channel id="DiscoveryHD.gr">1:0:1:9C4:2:5E:E08B00F:0:0:0:</channel> <!-- Discovery HD Showcase Europe-->
+<channel id="DiscoveryTurboXtra.gr">1:0:1:BB9:2:5E:E08B00F:0:0:0:</channel> <!-- DTX-->
+<channel id="DiscoveryTurboXtra.gr">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel> <!-- DTX-->
+<channel id="cyta.discoveryscience.cy">1:0:1:C80:2:5E:E08B00F:0:0:0:</channel> <!-- Science Europe HD-->
+<channel id="cyta.id.cy">1:0:1:A8C:2:5E:E08B00F:0:0:0:</channel> <!-- ID Xtra Europe HD-->
+<channel id="CrimeInvestigation.gr">1:0:1:1E88:14:46:E080000:0:0:0:</channel> <!-- Crime + Investigation Europe-->
+<channel id="cyta.history.cy">1:0:1:1E87:14:46:E080000:0:0:0:</channel> <!-- History Europe-->
+<!-- thor other -->
+<channel id="cyta.history.cy">1:0:19:106A:29:46:E080000:0:0:0:</channel> <!-- HISTORY HD-->
+<channel id="natgeo.gr">1:0:1:78BC:2C5:600:E080000:0:0:0</channel> <!-- National Geographic RO-->
+<channel id="SundanceChannel.gr">1:0:19:791F:2C6:600:E080000:0:0:0:</channel> <!-- sundance tv-->
+<channel id="cyta.bbcearth.cy">1:0:19:1C06:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
+<channel id="cyta.bbcearth.cy">1:0:19:1C2A:29:46:E080000:0:0:0:</channel> <!-- BBC Earth-->
+<!-- 23.5 -->
+<channel id="travel.gr">1:0:19:519F:C8B:3:EB0000:0:0:0:</channel> <!-- Travel Channel HD-->
+<channel id="natgeoHD.gr">1:0:19:303:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD CZ-->
+<channel id="NatGeoWild.gr">1:0:19:305:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD CZ-->
+<channel id="NatGeoWild.gr">1:0:19:306:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD DUT-->
+<channel id="natgeoHD.gr">1:0:19:302:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo HD-->
+<channel id="NatGeoWild.gr">1:0:19:304:C94:3:EB0000:0:0:0:</channel> <!-- Nat Geo Wild HD-->
+<channel id="NauticalChannel.gr">1:0:19:1BFD:C88:3:EB0000:0:0:0:</channel> <!-- Nautical Channel-->
+<channel id="Fineliving.gr">1:0:19:51A5:C8B:3:EB0000:0:0:0:</channel> <!-- Fine living-->
+<!-- 16.0 -->
+<channel id="ViasatHistory.gr">1:0:19:45C:526C:16E:A00000:0:0:0:</channel> <!-- Viasat History -->
+<channel id="ViasatExplore.gr">1:0:19:45B:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Explore -->
+<channel id="ViasatNature.gr">1:0:19:45A:526C:16E:A00000:0:0:0:</channel> <!-- Viasat Nature -->
+<!-- 13E -->
+<channel id="cyta.euronews.cy"> 1:0:1:7E2:22C4:13E:820000:0:0:0:</channel> <!--Euronews.GR-->
+<channel id="RIKsat.cy"> 1:0:1:30E:1B58:13E:820000:0:0:0:</channel> <!--RIKSat-->
+<channel id="SundanceChannel.gr">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel> <!-- Sundance HD-->
+<channel id="BabyTV.gr">1:0:1:579:2DB4:13E:820000:0:0:0:</channel> <!-- Baby tv-->
+<channel id="EuroSport1.gr"> 1:0:1:3610:C8:13E:820000:0:0:0:</channel> <!--EuroSport1.gr-->
+<channel id="EuroSport1.gr"> 1:0:1:3317:190:13E:820000:0:0:0:</channel> <!--EuroSport1HD.gr-->
+<channel id="EuroSport2.gr"> 1:0:1:35ED:C8:13E:820000:0:0:0:</channel> <!--EuroSport2HD.gr-->
+<channel id="ert.ertworld.gr"> 1:0:1:29E6:3CF0:13E:820000:0:0:0:</channel> <!--ERTWorld-->
+<!-- 9E -->
+<channel id="ant1eu.ant1europe.eu">1:0:1:415:2:AA:460000:0:0:0:</channel>  <!--ANT1 EUROPE--> 
+<!--1.9E-->
+<channel id="RIKsat.cy"> 1:0:1:20B:17:3:130000:0:0:0:</channel> <!--RIKSat-->
+<channel id="ert.ertworld.gr"> 1:0:1:20A:17:3:130000:0:0:0:</channel> <!--ERTWorld--> 
+<!-- 39E -->
+<channel id="digea.4e.gr"> 1:0:1:4:1:2BE:1860000:0:0:0:</channel> <!--4E-->
+<channel id="ert.ertworld.gr"> 1:0:1:3:1:2BE:1860000:0:0:0:</channel> <!--ERTWorld--> 
+<channel id="RIKsat.cy"> 1:0:1:1:1:2BE:1860000:0:0:0:</channel> <!--RIKSat-->
+<!--iptv -->
+<!-- DIGEA -->
+<channel id="digea.alpha.gr">1:0:1:100:100:0:0:0:0:0:http%3a//example.com</channel> <!-- ALPHA -->
+<channel id="digea.ant1.gr">1:0:1:300:300:0:0:0:0:0:http%3a//example.com</channel> <!-- ANT1 -->
+<channel id="digea.openbeyond.gr">1:0:1:800:800:0:0:0:0:0:http%3a//example.com</channel> <!-- OPEN BEYOND -->
+<channel id="digea.mtv.gr">1:0:1:400:400:0:0:0:0:0:http%3a//example.com</channel> <!-- M.tv -->
+<channel id="digea.skai.gr">1:0:1:600:600:0:0:0:0:0:http%3a//example.com</channel> <!-- SKAI -->
+<channel id="digea.star.gr">1:0:1:700:700:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR -->
+<channel id="digea.mega.gr">1:0:1:900:900:0:0:0:0:0:http%3a//example.com</channel> <!-- MEGA -->
+<channel id="digea.alfa.gr">1:0:1:5700:5700:0:0:0:0:0:http%3a//example.com</channel> <!-- ALFA -->
+<channel id="digea.centertv.gr">1:0:1:5710:5710:0:0:0:0:0:http%3a//example.com</channel> <!-- CENTER TV -->
+<channel id="digea.deltatv.gr">1:0:1:5720:5720:0:0:0:0:0:http%3a//example.com</channel> <!-- DELTA TV -->
+<channel id="digea.diktyotv.gr">1:0:1:5725:5725:0:0:0:0:0:http%3a//example.com</channel> <!-- DIKTYO TV -->
+<channel id="digea.smile.gr">1:0:1:5730:5730:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE -->
+<channel id="digea.enachannel.gr">1:0:1:5735:5735:0:0:0:0:0:http%3a//example.com</channel> <!-- ENA CHANNEL -->
+<channel id="digea.lydiatv.gr">1:0:1:5755:5755:0:0:0:0:0:http%3a//example.com</channel> <!-- LYDIA TV -->
+<channel id="digea.orestiadatv.gr">1:0:1:5750:5750:0:0:0:0:0:http%3a//example.com</channel> <!-- ORESTIADA TV -->
+<channel id="digea.tvrodopi.gr">1:0:1:5760:5760:0:0:0:0:0:http%3a//example.com</channel> <!-- TV RODOPI -->
+<channel id="digea.starbellados.gr">1:0:1:5765:5765:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR B. ELLADOS -->
+<channel id="digea.thrakinet.gr">1:0:1:5770:5770:0:0:0:0:0:http%3a//example.com</channel> <!-- THRAKINET -->
+<channel id="digea.tileepiloges.gr">1:0:1:5775:5775:0:0:0:0:0:http%3a//example.com</channel> <!-- TILE EPILOGES -->
+<channel id="digea.aepsilonanmakthrakis.gr">1:0:1:5780:5780:0:0:0:0:0:http%3a//example.com</channel> <!-- a.Epsilon An. Mak. Thrakis -->
+<channel id="digea.xanthichannel.gr">1:0:1:5790:5790:0:0:0:0:0:http%3a//example.com</channel> <!-- XANTHI CHANNEL -->
+<channel id="digea.4e.gr">1:0:1:5850:5850:0:0:0:0:0:http%3a//example.com</channel> <!-- 4Ε -->
+<channel id="digea.atlastv.gr">1:0:1:5855:5855:0:0:0:0:0:http%3a//example.com</channel> <!-- ATLAS TV -->
+<channel id="digea.bergina.gr">1:0:1:5860:5860:0:0:0:0:0:http%3a//example.com</channel> <!-- BERGINA -->
+<channel id="digea.europeone.gr">1:0:1:5880:5880:0:0:0:0:0:http%3a//example.com</channel> <!-- EUROPE ONE -->
+<channel id="digea.aechannelthessaloniki.gr">1:0:1:5885:5885:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL THESSALONIKI -->
+<channel id="digea.kanali9.gr">1:0:1:5905:5905:0:0:0:0:0:http%3a//example.com</channel> <!-- KANALI 9 -->
+<channel id="digea.nickelodeonplus.gr">1:0:1:5910:5910:0:0:0:0:0:http%3a//example.com</channel> <!-- NICKELODEON PLUS -->
+<channel id="digea.diontv.gr">1:0:1:5865:5865:0:0:0:0:0:http%3a//example.com</channel> <!-- DION TV -->
+<channel id="digea.eurochannel.gr">1:0:1:5920:5920:0:0:0:0:0:http%3a//example.com</channel> <!-- EURO CHANNEL -->
+<channel id="digea.tv100.gr">1:0:1:5925:5925:0:0:0:0:0:http%3a//example.com</channel> <!-- TV 100 -->
+<channel id="digea.gnomitv.gr">1:0:1:5922:5922:0:0:0:0:0:http%3a//example.com</channel> <!-- GNOMI TV -->
+<channel id="digea.diktyo.gr">1:0:1:6000:6000:0:0:0:0:0:http%3a//example.com</channel> <!-- DIKTYO -->
+<channel id="digea.flashtv.gr">1:0:1:6005:6005:0:0:0:0:0:http%3a//example.com</channel> <!-- FLASH TV -->
+<channel id="digea.osiosnikanor.gr">1:0:1:6010:6010:0:0:0:0:0:http%3a//example.com</channel> <!-- ΟΣΙΟΣ ΝΙΚΑΝΩΡ -->
+<channel id="digea.topchannel.gr">1:0:1:6050:6050:0:0:0:0:0:http%3a//example.com</channel> <!-- TOP CHANNEL -->
+<channel id="digea.westchannel.gr">1:0:1:6060:6060:0:0:0:0:0:http%3a//example.com</channel> <!-- WEST CHANNEL -->
+<channel id="digea.arttv.gr">1:0:1:7000:7000:0:0:0:0:0:http%3a//example.com</channel> <!-- ART TV -->
+<channel id="digea.axelwostv.gr">1:0:1:7005:7005:0:0:0:0:0:http%3a//example.com</channel> <!-- AXELWOS TV -->
+<channel id="digea.bhmatv.gr">1:0:1:7010:7010:0:0:0:0:0:http%3a//example.com</channel> <!-- BHMA TV -->
+<channel id="digea.corfutv.gr">1:0:1:7015:7015:0:0:0:0:0:http%3a//example.com</channel> <!-- CORFU TV -->
+<channel id="digea.epirustv1.gr">1:0:1:7050:7050:0:0:0:0:0:http%3a//example.com</channel> <!-- EPIRUS TV1 -->
+<channel id="digea.itv.gr">1:0:1:7055:7055:0:0:0:0:0:http%3a//example.com</channel> <!-- ITV -->
+<channel id="digea.starttv.gr">1:0:1:7065:7065:0:0:0:0:0:http%3a//example.com</channel> <!-- START TV -->
+<channel id="digea.achaiachannel.gr">1:0:1:5000:5000:0:0:0:0:0:http%3a//example.com</channel> <!-- ACHAIA CHANNEL -->
+<channel id="digea.arkadikitv.gr">1:0:1:5002:5002:0:0:0:0:0:http%3a//example.com</channel> <!-- ARKADIKI TV -->
+<channel id="digea.axiontv.gr">1:0:1:5004:5004:0:0:0:0:0:http%3a//example.com</channel> <!-- AXION TV -->
+<channel id="digea.besttv.gr">1:0:1:5006:5006:0:0:0:0:0:http%3a//example.com</channel> <!-- BEST TV -->
+<channel id="digea.hlektratv.gr">1:0:1:5012:5012:0:0:0:0:0:http%3a//example.com</channel> <!-- HLEKTRA TV -->
+<channel id="digea.ionianchannel.gr">1:0:1:5014:5014:0:0:0:0:0:http%3a//example.com</channel> <!-- IONIAN CHANNEL -->
+<channel id="digea.lepanto.gr">1:0:1:5030:5030:0:0:0:0:0:http%3a//example.com</channel> <!-- LEPANTO -->
+<channel id="digea.lychnos.gr">1:0:1:5048:5048:0:0:0:0:0:http%3a//example.com</channel> <!-- LYCHNOS -->
+<channel id="digea.mesogeiostv.gr">1:0:1:5034:5034:0:0:0:0:0:http%3a//example.com</channel> <!-- MESOGEIOS TV -->
+<channel id="digea.anet.gr">1:0:1:5036:5036:0:0:0:0:0:http%3a//example.com</channel> <!-- a.NET -->
+<channel id="digea.ort.gr">1:0:1:5038:5038:0:0:0:0:0:http%3a//example.com</channel> <!-- ORT -->
+<channel id="digea.plp.gr">1:0:1:5007:5007:0:0:0:0:0:http%3a//example.com</channel> <!-- PLP -->
+<channel id="digea.rtpkentpo.gr">1:0:1:5040:5040:0:0:0:0:0:http%3a//example.com</channel> <!-- RTP KENTPO -->
+<channel id="digea.super.gr">1:0:1:5042:5042:0:0:0:0:0:http%3a//example.com</channel> <!-- SUPER -->
+<channel id="digea.superb.gr">1:0:1:5044:5044:0:0:0:0:0:http%3a//example.com</channel> <!-- SUPER B -->
+<channel id="digea.astratv.gr">1:0:1:5950:5950:0:0:0:0:0:http%3a//example.com</channel> <!-- ASTRA TV -->
+<channel id="digea.thessaliatv.gr">1:0:1:5955:5955:0:0:0:0:0:http%3a//example.com</channel> <!-- THESSALIA TV -->
+<channel id="digea.trt.gr">1:0:1:5960:5960:0:0:0:0:0:http%3a//example.com</channel> <!-- TRT -->
+<channel id="digea.tv10.gr">1:0:1:5965:5965:0:0:0:0:0:http%3a//example.com</channel> <!-- TV 10 -->
+<channel id="digea.smileplus.gr">1:0:1:5970:5970:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE PLUS -->
+<channel id="digea.etv.gr">1:0:1:5100:5100:0:0:0:0:0:http%3a//example.com</channel> <!-- ETV -->
+<channel id="digea.enake.gr">1:0:1:5104:5104:0:0:0:0:0:http%3a//example.com</channel> <!-- ENA K.E. -->
+<channel id="digea.starke.gr">1:0:1:5108:5108:0:0:0:0:0:http%3a//example.com</channel> <!-- STAR K.E. -->
+<channel id="digea.art.gr">1:0:1:3074:3074:0:0:0:0:0:http%3a//example.com</channel> <!-- ART -->
+<channel id="digea.extrachannel.gr">1:0:1:3000:3000:0:0:0:0:0:http%3a//example.com</channel> <!-- EXTRA CHANNEL -->
+<channel id="digea.action24.gr">1:0:1:3004:3004:0:0:0:0:0:http%3a//example.com</channel> <!-- ACTION24 -->
+<channel id="digea.atticatv.gr">1:0:1:3008:3008:0:0:0:0:0:http%3a//example.com</channel> <!-- ATTICA TV -->
+<channel id="digea.bluesky.gr">1:0:1:3012:3012:0:0:0:0:0:http%3a//example.com</channel> <!-- BLUE SKY -->
+<channel id="digea.channel9.gr">1:0:1:3016:3016:0:0:0:0:0:http%3a//example.com</channel> <!-- CHANNEL 9 -->
+<channel id="digea.aechannel.gr">1:0:1:3030:3030:0:0:0:0:0:http%3a//example.com</channel> <!-- AE CHANNEL -->
+<channel id="digea.hightv.gr">1:0:1:3034:3034:0:0:0:0:0:http%3a//example.com</channel> <!-- HIGH TV -->
+<channel id="digea.kontra.gr">1:0:1:3038:3038:0:0:0:0:0:http%3a//example.com</channel> <!-- KONTRA -->
+<channel id="digea.madtv.gr">1:0:1:3042:3042:0:0:0:0:0:http%3a//example.com</channel> <!-- MAD TV -->
+<channel id="digea.risetv.gr">1:0:1:3060:3060:0:0:0:0:0:http%3a//example.com</channel> <!-- RISE TV -->
+<channel id="digea.nickelodeon.gr">1:0:1:3064:3064:0:0:0:0:0:http%3a//example.com</channel> <!-- NICKELODEON -->
+<channel id="digea.smile.gr">1:0:1:3072:3072:0:0:0:0:0:http%3a//example.com</channel> <!-- SMILE -->
+<channel id="digea.alert.gr">1:0:1:3068:3068:0:0:0:0:0:http%3a//example.com</channel> <!-- ALERT -->
+<channel id="digea.notostv.gr">1:0:1:7100:7100:0:0:0:0:0:http%3a//example.com</channel> <!-- NOTOS TV -->
+<channel id="digea.creta.gr">1:0:1:7105:7105:0:0:0:0:0:http%3a//example.com</channel> <!-- CRETA -->
+<channel id="digea.kphthtv.gr">1:0:1:7110:7110:0:0:0:0:0:http%3a//example.com</channel> <!-- KPHTH TV -->
+<channel id="digea.kphthtv1.gr">1:0:1:7115:7115:0:0:0:0:0:http%3a//example.com</channel> <!-- KPHTH TV 1 -->
+<channel id="digea.neatvcrete.gr">1:0:1:7130:7130:0:0:0:0:0:http%3a//example.com</channel> <!-- NEA TV CRETE -->
+<channel id="digea.sitiatv.gr">1:0:1:7135:7135:0:0:0:0:0:http%3a//example.com</channel> <!-- SITIA TV -->
+<channel id="digea.aetv.gr">1:0:1:7140:7140:0:0:0:0:0:http%3a//example.com</channel> <!-- AE TV -->
+<channel id="digea.aigaiotv.gr">1:0:1:7150:7150:0:0:0:0:0:http%3a//example.com</channel> <!-- AIGAIOTV -->
+<channel id="digea.dimotikitileorasiko.gr">1:0:1:7155:7155:0:0:0:0:0:http%3a//example.com</channel> <!-- DIMOTIKI TILEORASI KO -->
+<channel id="digea.iridatv.gr">1:0:1:7160:7160:0:0:0:0:0:http%3a//example.com</channel> <!-- IRIDA TV -->
+<channel id="digea.tharri.gr">1:0:1:7170:7170:0:0:0:0:0:http%3a//example.com</channel> <!-- THARRI -->
+<channel id="digea.samiakitv.gr">1:0:1:7175:7175:0:0:0:0:0:http%3a//example.com</channel> <!-- SAMIAKI TV -->
+<channel id="digea.kosmos.gr">1:0:1:7185:7185:0:0:0:0:0:http%3a//example.com</channel> <!-- KOSMOS -->
+<channel id="digea.syrostv1.gr">1:0:1:7205:7205:0:0:0:0:0:http%3a//example.com</channel> <!-- SYROS TV1 -->
+<channel id="digea.volcano.gr">1:0:1:7210:7210:0:0:0:0:0:http%3a//example.com</channel> <!-- VOLCANO -->
+<channel id="digea.alitheiatv.gr">1:0:1:5800:5800:0:0:0:0:0:http%3a//example.com</channel> <!-- ALITHEIA TV -->
+<channel id="digea.patridatv.gr">1:0:1:5810:5810:0:0:0:0:0:http%3a//example.com</channel> <!-- PATRIDA TV -->
+<channel id="digea.tvm.gr">1:0:1:5815:5815:0:0:0:0:0:http%3a//example.com</channel> <!-- TVM -->
+<!-- ERT -->
+<channel id="ert.vouli.gr">1:0:1:8:8:0:0:0:0:0:http%3a//example.com</channel> <!-- VOULI -->
+<channel id="ert.ert1.gr">1:0:1:9:9:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT1 -->
+<channel id="ert.ert3.gr">1:0:1:10:10:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT3 -->
+<channel id="ert.ertworld.gr">1:0:1:11:11:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT WORLD -->
+<channel id="ert.ertsports.gr">1:0:1:24:24:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT SPORTS -->
+<channel id="ert.ert2.gr">1:0:1:49:49:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT2 -->
+<channel id="cyta.euronews.cy"> 1:0:1:171:171:0:0:0:0:0:http%3a//example.com </channel> <!-- euronews -->
+<channel id="cyta.rik1.cy">1:0:1:65:0:0:1046A:0:0:0:http%3a//example.com </channel> <!--RIK 1-->
+<channel id="cyta.rik2.cy">1:0:1:66:0:0:2516:0:0:0:http%3a//example.com </channel> <!--RIK 2-->
+<channel id="cyta.capitaltv.cy">1:0:1:67:0:0:A8FFE:0:0:0:http%3a//example.com </channel> <!--CAPITAL TV-->
+<channel id="cyta.omega.cy">1:0:1:68:0:0:1AEE:0:0:0:http%3a//example.com </channel> <!--OMEGA-->
+<channel id="cyta.ant1.cy">1:0:1:69:0:0:10D5A:0:0:0:http%3a//example.com </channel> <!--ANT1 CY-->
+<channel id="cyta.extra.cy">1:0:1:6C:0:0:A855C:0:0:0:http%3a//example.com </channel> <!--EXTRA CY-->
+<channel id="cyta.alpha.cy">1:0:1:6A:0:0:F1206:0:0:0:http%3a//example.com </channel> <!--ALPHA CY-->
+<channel id="cyta.plustv.cy">1:0:1:6D:0:0:10166:0:0:0:http%3a//example.com :</channel> <!--PLUS TV-->
+<channel id="SigmaTV.cy">1:0:1:3EF:0:0:9FC6D:0:0:0:http%3a//example.com </channel> <!--SIGMA TV-->
+<channel id="cyta.tvmall.cy">1:0:1:65B92E:0:0:C0C33:0:0:0:http%3a//example.com</channel> <!--TV MAIL-->
+<channel id="cyta.smiletv.cy">1:0:1:3E8:0:0:11100:0:0:0:http%3a//example.com</channel> <!--SMILE TV CY-->
+<channel id="ONEChannel.gr">0:1:415:2:AA:460000:0:0:0:http%3a//example.com</channel> <!--ONE TV-->
+</channels>

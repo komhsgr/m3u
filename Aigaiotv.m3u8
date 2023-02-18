@@ -1,4 +1,6 @@
-#EXTINF:-1
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/aigaiotv1/index.m3u8

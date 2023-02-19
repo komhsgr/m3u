@@ -1,2 +1,4 @@
 #EXTINF:-1,ALPHA CY
-https://am4.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=57673629&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIzIDQ6MzI6NDIgUE0maGFzaF92YWx1ZT1sdnRmNUhSNEpjR3NRb0Zha3NMdnJBPT0mdmFsaWRtaW51dGVzPTM2MA==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=http://stgtwo.alphatv.gr/page/live#gsc.tab=0
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDg6MzU6NTIgQU0maGFzaF92YWx1ZT1zMFB1ZVhZOGlSdU03YzRHOS9FVmN3PT0mdmFsaWRtaW51dGVzPTM2MA==

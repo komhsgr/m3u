@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4781422,RESOLUTION=1280x720,CODECS="avc1.4D001F,mp4a.40.2",VIDEO="chunked",FRAME-RATE=25.000
+https://stream-05.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvK5K-BMiSiule-sZK_Wlli3cw6QuccmWrQv2hQ1t4uCx)/dm/3/xqjey2/s/live-1.m3u8#cell=lcore

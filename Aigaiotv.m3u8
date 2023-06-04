@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4781422,RESOLUTION=1280x720,CODECS="avc1.4D001F,mp4a.40.2",VIDEO="chunked",FRAME-RATE=25.000
+https://tna5.bozztv.com/aigaiotv1/index.m3u8

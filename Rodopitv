@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4781422,RESOLUTION=1280x720,CODECS="avc1.4D001F,mp4a.40.2",VIDEO="chunked",FRAME-RATE=25.000
+https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_8e981e4052a811ec84c93746b0fa0734/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36&Referer=https://player.castr.com/

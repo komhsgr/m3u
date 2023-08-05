@@ -261,3 +261,43 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
+#EXTINF:5860 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
+http://127.0.0.1:88/https://www.twitch.tv/verginachannel
+#EXTINF:5865 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
+http://127.0.0.1:88/https://www.twitch.tv/diontvkentrikismakedonias
+#EXTINF:5765 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR BE
+http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
+#EXTINF:6005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",FLASH TV
+http://127.0.0.1:88/https://www.twitch.tv/flashtvgr
+#EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ASTRA TV
+http://127.0.0.1:88/https://www.twitch.tv/astratv2021
+#EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
+http://127.0.0.1:88/https://www.twitch.tv/centertv
+#EXTINF:5955 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",THESSALIA TV
+http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
+#EXTINF:5920 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",EURO CHANNEL
+http://127.0.0.1:88/https://www.twitch.tv/eurochannel
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
+http://127.0.0.1:88/https://www.twitch.tv/xtvision
+#EXTINF:2221 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="",Bergina Tv Cy
+http://127.0.0.1:88/https://www.twitch.tv/verginacy
+#EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS WEB 
+http://127.0.0.1:88/https://www.twitch.tv/pronewstv
+#EXTINF:5760 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
+http://127.0.0.1:88/https://www.twitch.tv/tvkosmosgr
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/qooJiZ6.png",CRECA TV
+http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+#EXTINF:3016 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
+http://127.0.0.1:88/https://www.twitch.tv/onechanneltv
+#EXTINF:5050 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="risetv" tvg-logo="https://i.imgur.com/9ulmPA1.png",RISE TV
+http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",BCI FOOD
+https://eu1.vectromdigital.com:1936/bcifood/bcifood/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",BCI SPORT
+https://eu1.vectromdigital.com:1936/bcisports/bcisports/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",BCI DOCUMENTARY
+https://eu1.vectromdigital.com:1936/bcidocumentary/bcidocumentary/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",TOP CHANNEL BUP
+http://127.0.0.1:88/https://www.twitch.tv/topchannelkozani
+#EXTINF:4130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",RODOPI TV
+http://127.0.0.1:88/https://www.twitch.tv/tvrodopi

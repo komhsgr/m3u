@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AIGAIO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/aigaiotv1/index.m3u8

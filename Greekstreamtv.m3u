@@ -77,6 +77,8 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:7002 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKH TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:4940 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="onetv" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE
+https://til.pp.ua:3391/live/channeln9live.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:3038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA

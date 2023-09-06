@@ -158,7 +158,7 @@ https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chun
 #EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8 
 #EXTINF:4470 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
-http://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
+https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/iN9EG4c.png",PLP
 http://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE

@@ -103,7 +103,7 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:7105 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",,STAR K.E.
+#EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
 https://www.dailymotion.com/embed/video/xqjey2#tab_embed.m3u8
 #EXTINF:5006 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV
 https://stream.net7.gr/hls/best/index.m3u8

@@ -149,13 +149,13 @@ http://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 http://127.0.0.1:88/https://www.twitch.tv/lepantotv
 #EXTINF:4830 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
-#EXTINF:5780 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
+#EXTINF:4010 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
-#EXTINF:5922 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/iN9EG4c.png",GNOMI TV
+#EXTINF:4290 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/iN9EG4c.png",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:4710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/KzMe2CX.jpg",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8
-#EXTINF:5048 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
+#EXTINF:4450 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8 
 #EXTINF:5720 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="",AIGAIO TV
 https://250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8
@@ -249,11 +249,11 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-#EXTINF:5860 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
+#EXTINF:4240 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
 http://127.0.0.1:88/https://www.twitch.tv/verginachannel
-#EXTINF:5865 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
+#EXTINF:4260 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
 http://127.0.0.1:88/https://www.twitch.tv/diontvkentrikismakedonias
-#EXTINF:5765 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR BE
+#EXTINF:4120 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR BE
 http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
 #EXTINF:6005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",FLASH TV
 http://127.0.0.1:88/https://www.twitch.tv/flashtvgr
@@ -277,7 +277,7 @@ http://127.0.0.1:88/https://www.twitch.tv/tvkosmosgr
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:5050 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="risetv" tvg-logo="https://i.imgur.com/9ulmPA1.png",RISE TV
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",TOP CHANNEL BUP
+#EXTINF:5350 group-title="WEB TV" tvg-logo="",TOP CHANNEL BUP
 http://127.0.0.1:88/https://www.twitch.tv/topchannelkozani
 #EXTINF:4130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",RODOPI TV
 http://127.0.0.1:88/https://www.twitch.tv/tvrodopi

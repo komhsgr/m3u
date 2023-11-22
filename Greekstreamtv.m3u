@@ -287,3 +287,5 @@ http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
 http://127.0.0.1:88/https://www.twitch.tv/dtpylias
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",CΙΝΕΜΑ ΤIME BUP
 http://127.0.0.1:88/https://www.twitch.tv/cinematimetv
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",CΙΝΕΜΑ ΤIME 2
+http://127.0.0.1:88/https://www.twitch.tv/cinematimetv2

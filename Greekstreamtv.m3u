@@ -43,14 +43,10 @@ https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SrKV4ZT.png",ZOYZOYNIA TV
-https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:5739 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
-#EXTINF:5739 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS BUP
-https://new.cache-stream.workers.dev/stream/UC8HJZNfDPoySgW9DN3YGNaA/live.m3u8
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
@@ -65,12 +61,6 @@ https://l1.cloudskep.com/tst/omcy/playlist.m3u8
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
 https://s1.cystream.net/live/faros2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT CY
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg",CITY CHANNEL
-https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/rIt5pfv.png",VOULI TV CY
-https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:7002 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKH TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:3004 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/hNvAHzt.jpg",ACTION 24
@@ -225,7 +215,7 @@ https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS WORLD
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
@@ -269,3 +259,23 @@ http://127.0.0.1:88/https://www.twitch.tv/dtpylias
 http://127.0.0.1:88/https://www.twitch.tv/cinematimetv
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",CΙΝΕΜΑ ΤIME 2
 http://127.0.0.1:88/https://www.twitch.tv/cinematimetv2
+#EXTINF:4130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",KOS TV
+http://127.0.0.1:88/https://www.twitch.tv/kardamena_team
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV CY
+http://127.0.0.1:88/https://www.twitch.tv/verginacy
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARGOLIDA SPORT
+https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD
+https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
+https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
+#EXTINF:-1 group-title="MUCIC" tvg-name="" tvg-logo="",DIAMOND TV
+https://kali1.everestcast.com:3061/hybrid/play.m3u8
+#EXTINF:-1 group-title="MUCIC" tvg-name="" tvg-logo="",LEVEL
+https://til.pp.ua:3042/live/level69plive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",MAX TV
+https://neon.streams.gr:8081/argolidatv/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
+https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8

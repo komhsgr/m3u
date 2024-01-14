@@ -49,6 +49,12 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainab
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:561066 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:561078 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/V8rpBDp.png",RIK 2 CY
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:608096 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png",ANT1 CY
@@ -57,6 +63,10 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 #EXTINF:2225 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/De7i4vw.png",OMEGA 
 https://l1.cloudskep.com/tst/omcy/playlist.m3u8
+#EXTINF:289607 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://i.imgur.com/zfcpREG.png",ALPHA CY
+http://l4.cloudskep.com/alphatmp/acy/playlist.m3u8
+#EXTINF:2221 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV CY
+http://127.0.0.1:88/https://www.twitch.tv/verginacy
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
@@ -261,8 +271,6 @@ http://127.0.0.1:88/https://www.twitch.tv/cinematimetv
 http://127.0.0.1:88/https://www.twitch.tv/cinematimetv2
 #EXTINF:4130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",KOS TV
 http://127.0.0.1:88/https://www.twitch.tv/kardamena_team
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV CY
-http://127.0.0.1:88/https://www.twitch.tv/verginacy
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD
@@ -279,3 +287,5 @@ https://neon.streams.gr:8081/argolidatv/index.m3u8
 https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/ert_sports4_main/main_1080/chunks.m3u8
+#EXTINF:4550 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-name="" tvg-logo="", RTP KENTRO
+https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8

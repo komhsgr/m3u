@@ -235,40 +235,6 @@ https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.imgur.com/w4lIGYn.png",HORSE RACES
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Lepanto tv" tvg-logo="",Lepanto tv
-https://tw.nickstamp93.workers.dev/channel/lepantotv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Kosmostv" tvg-logo="",Kosmos tv
-https://tw.nickstamp93.workers.dev/channel/tvkosmosgr.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Rodopitv" tvg-logo="",Rodopi tv
-https://tw.nickstamp93.workers.dev/channel/Rodopi.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="starb.e" tvg-logo="",Star B.E.
-https://tw.nickstamp93.workers.dev/channel/tvstarfm.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="VerginaTV" tvg-logo="",Vergina TV
-https://tw.nickstamp93.workers.dev/channel/verginachannel.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DION" tvg-logo="",DION TV
-https://tw.nickstamp93.workers.dev/channel/diontvkentrikismakedonias.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="FLASH",FLASH TV
-https://tw.nickstamp93.workers.dev/channel/flashtvgr.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo=""THESSALIA",THESSALIA TV
-https://tw.nickstamp93.workers.dev/channel/livethess.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""CENTER tvg-logo="",CENTER TV
-https://tw.nickstamp93.workers.dev/channel/centertv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",Vergina tv CY
-https://tw.nickstamp93.workers.dev/channel/verginacy.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",TV IONIA
-https://tw.nickstamp93.workers.dev/channel/tvioniathessalonikis.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",CINEMA TIME 2
-https://tw.nickstamp93.workers.dev/channel/cinematimetv2.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",PRO NEWS
-https://tw.nickstamp93.workers.dev/channel/pronewstv.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KOS" tvg-logo="",KOS TV
-https://tw.nickstamp93.workers.dev/channel/kardamena_team.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",XTV
-https://tw.nickstamp93.workers.dev/channel/xtvision.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",
-https://tw.nickstamp93.workers.dev/channel/orthodoxiaradio.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",CINEMA TIME 2
-https://tw.nickstamp93.workers.dev/channel/cinematimetv.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD

@@ -108,13 +108,13 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:7105 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:5006 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/sf4Twdk.png",BEST TV
-https://stream.net7.gr/hls/best/index.m3u8
+https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
 #EXTINF:7065 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/wPw9Qzd.png",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:5960 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
 http://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:5735 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/Pu8TugK.png",ENA CHANNEL
-https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
+https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:5770 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/zkTohBm.png",THRAKINET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:5720 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/InMKPny.png",DELTA TV
@@ -248,7 +248,7 @@ http://127.0.0.1:88/https://www.twitch.tv/astratv2021
 #EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
 http://127.0.0.1:88/https://www.twitch.tv/centertv
 #EXTINF:5955 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",THESSALIA TV
-http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
+http://127.0.0.1:88/https://www.twitch.tv/livethess
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
 #EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS 

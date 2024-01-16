@@ -294,3 +294,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginacy.m3u
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-name="" tvg-logo="", RTP KENTRO
 https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
+#EXTINF:-1 tvg-id="StarKentrikisElladas.gr",STAR K.E.
+#EXTVLCOPT:http-referrer=https://player.castr.com
+https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8

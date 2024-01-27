@@ -299,3 +299,5 @@ https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E. BUP
 https://www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn#tab_embed.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EUROVISION CHANNEL
+https://streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/playlist.m3u8

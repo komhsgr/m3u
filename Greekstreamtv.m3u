@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:9 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
-https://telmacosa.s.llnwi.net/osY/ERT/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/ert1/default/index.m3u8
 #EXTINF:49 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
-https://telmacosa.s.llnwi.net/osY/ERT2/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
 #EXTINF:10 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
-https://telmacosa.s.llnwi.net/osY/ERT3/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/ert3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
 http://telmacosa.s.llnwi.net/osO/ERTNews/default/playlist.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
@@ -40,7 +40,7 @@ https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",DTV6
 https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
-https://telmacosa.s.llnwi.net/osO/ERTWorld/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:5739 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
@@ -196,7 +196,7 @@ https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6rtrnWv.png",REAL MUSIC TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
 #EXTINF:24 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
-https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
 http://cdn1.smart-tv-data.com/vid/ertplay2/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
@@ -216,7 +216,7 @@ https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
-https://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/umm0f3K.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/6nNNRoS.png",ELLINIKOS FM
@@ -277,16 +277,14 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="MUCIC" tvg-name="" tvg-logo="",LEVEL
 https://pro.free.hr:3464/live/l69plive.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",MAX TV
-https://neon.streams.gr:8081/argolidatv/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
-http://telmacosa.s.llnwi.net/ertlive/music/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
-http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
+hhttp://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EUROVISION CHANNEL
-http://telmacosa.s.llnwi.net/ertlive/eurovision/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",ON TV

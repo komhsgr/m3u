@@ -244,7 +244,7 @@ https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
 http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
-http://telmacosa.s.llnwi.net/ertlive/kids/default/playlist.m3u8
+http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="astratv" tvg-logo="https://i.imgur.com/jwGfXtf.png",ASTRA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://i.imgur.com/IUsn0jJ.png",BERGINA TV

@@ -298,7 +298,7 @@ https://pro.free.hr:3464/live/l69plive.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
 http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
-hhttp://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
+http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EUROVISION CHANNEL

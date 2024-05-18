@@ -105,6 +105,8 @@ https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""https://i.imgur.com/6zvoHaL.png",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:4240 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
+https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
 #EXTINF:5925 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:7110 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV
@@ -162,7 +164,7 @@ https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
 #EXTINF:4450 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8 
 #EXTINF:5720 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/DUSsntS.png",AIGAIO TV
-https://250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:5450 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="arttv" tvg-logo="https://i.imgur.com/dYI1TUb.png",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:4470 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/0wdqOZL.png",ORT TV
@@ -305,3 +307,9 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 https://ythls.armelin.one/channel/UC87VDJvN0E-79sxrOUigEwg.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",IVIEW TV
 http://127.0.0.1:88/https://www.twitch.tv/iviewtvgr
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV
+http://127.0.0.1:88/https://www.twitch.tv/extacy_tv
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",MONTAZ TV
+https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",OPAP TV
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8

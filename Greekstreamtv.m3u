@@ -51,22 +51,8 @@ http://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 #EXTINF:8 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:2222 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/z0E8NTX.png",RIK 1 CY
-http://213.7.193.54:4000/play/a00a/index.m3u8
-#EXTINF:2223 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/V8rpBDp.png",RIK 2 CY
-http://213.7.193.54:4000/play/a00b/index.m3u8
-#EXTINF:2224 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/YqnI30v.png",RIK HD CY
-http://213.7.193.54:4000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:2225 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://i.imgur.com/De7i4vw.png",OMEGA
-http://213.7.193.54:4000/play/a003/index.m3u8
-#EXTINF:2230 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="",CAPITAL
-http://213.7.193.54:4000/play/a009/index.m3u8
-#EXTINF:2231 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="",ONE TV CY
-http://213.7.193.54:4000/play/a008/index.m3u8
-#EXTINF:2229 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="",PLUS
-http://213.7.193.54:4000/play/a007/index.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:2227 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA
@@ -156,7 +142,7 @@ http://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 #EXTINF:4530 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
 http://127.0.0.1:88/https://www.twitch.tv/lepantotv
 #EXTINF:4830 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png",ETV
-https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
+https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:4290 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/iN9EG4c.png",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:4550 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-name="" tvg-logo="",RTP KENTRO

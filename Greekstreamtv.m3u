@@ -297,3 +297,9 @@ http://127.0.0.1:88/https://www.twitch.tv/extacy_tv
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:9501 group-title="WEB TV" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
+https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
+#EXTINF:9500 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
+http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
+#EXTINF:9502 group-title="WEB TV" tvg-logo="https://i.imgur.com/lLxhzy5.png",ANT1 F1
+http://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8

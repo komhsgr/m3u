@@ -34,7 +34,7 @@ http://127.0.0.1:88/https://www.twitch.tv/diabatatv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD BUP
 https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
-https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",DTV6
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",DELTA CINEMA

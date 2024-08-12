@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:9001 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24613/index.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:9002 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
-http://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/playlist.m3u8
 #EXTINF:9003 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/playlist.m3u8
 #EXTINF:9004 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
 http://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD

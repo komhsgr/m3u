@@ -84,7 +84,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:3068 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:3012 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/Lj3W875.png",BLUE SKY
-https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="" tvg-logo="https://i.imgur.com/6IhEVAt.png",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""https://i.imgur.com/6zvoHaL.png",IONIAN CHANNEL

@@ -266,7 +266,7 @@ https://glb.bozztv.com/glb/ssh101/cinematimetv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",CINEMA TIME 2
 https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:4130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",KOS TV
-http://127.0.0.1:88/https://www.twitch.tv/kardamena_team
+http://127.0.0.1:88/https://www.twitch.tv/kostv2024
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD
@@ -286,7 +286,7 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",IVIEW TV
 http://127.0.0.1:88/https://www.twitch.tv/iviewtvgr
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV
-http://127.0.0.1:88/https://www.twitch.tv/extacy_tv
+https://nl.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",MONTAZ TV
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",OPAP TV

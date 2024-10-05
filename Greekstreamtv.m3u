@@ -145,6 +145,8 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:4550 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-name="" tvg-logo="",RTP KENTRO
 https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
+#EXTINF:4540 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="patra" tvg-logo="",PATRA TV
+https://glb.bozztv.com/glb/ssh101/patratvlive/playlist.m3u8
 #EXTINF:4450 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8 
 #EXTINF:5720 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/DUSsntS.png",AIGAIO TV

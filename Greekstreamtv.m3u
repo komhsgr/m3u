@@ -193,6 +193,8 @@ https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6rtrnWv.png",KISS TV
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",XALASTRA TV
+https://channel.streams.ovh:8081/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",TOP WEBHOST TV
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="",MUSIC WEB TV
@@ -276,7 +278,7 @@ http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 #EXTINF:9005 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
 http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/kI5EYvR.png",STAR K.E.
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
+https://telmacosa.s.llnwi.net/starcgr/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",IVIEW TV

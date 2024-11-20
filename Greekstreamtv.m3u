@@ -53,8 +53,12 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:2227 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
+#EXTINF:2228 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/1jU8bGa.png",ALPHA CY
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
+#EXTINF:2225 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/Np7xLfk.png",OMEGA CY
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:2221 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV CY
-http://127.0.0.1:88/https://www.twitch.tv/verginacy
+https://glb.bozztv.com/glb/ssh101/vecy32423jk/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png",FAROS TV2 CY
@@ -203,8 +207,6 @@ https://vodlive.streams.ovh:3165/stream/play.m3u8
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 3
-http://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
 http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
@@ -233,7 +235,7 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:4260 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
 http://127.0.0.1:88/https://www.twitch.tv/diontvkmakedonias
-#EXTINF:4120 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR BE
+#EXTINF:4120 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR B.E.
 http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
 #EXTINF:5920 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",EURO CHANNEL
 http://127.0.0.1:88/https://www.twitch.tv/eurotvgr
@@ -288,7 +290,7 @@ https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV BUP
 http://127.0.0.1:88/https://www.twitch.tv/extacy_tv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV CY
-http://127.0.0.1:88/https://www.twitch.tv/extacy_tv_cyprus
+http://127.0.0.1:88/https://www.twitch.tv/extacy_tv_cy
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",MONTAZ TV
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",OPAP TV
@@ -299,15 +301,11 @@ https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:9503 group-title="WEB TV" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 JUST MUSIC
 https://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
+#EXTINF:9502 group-title="WEB TV" tvg-logo="https://i.imgur.com/hz41PMx.png",ANT1 F1
+https://mcdn.antennaplus.gr/live/media0/F1/HLS/F1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/bZTT75j.png",MEGA PLAY
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 1
-http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2
-https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR 
-https://live-world-monobala.siliconweb.com/monobala-ext/rhodesisland/playlist.m3u8
 #EXTINF:-1 group-title="Β.Α ΑΙΓΑΙΟΥ" tvg-name="alithia" tvg-logo="",ALITHIA TV
 http://127.0.0.1:88/https://www.twitch.tv/alithiavideo

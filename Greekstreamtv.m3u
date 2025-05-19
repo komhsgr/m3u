@@ -26,13 +26,11 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ADk1goe.jpg",NETV EUROPE HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD
-http://127.0.0.1:88/https://www.twitch.tv/diavata_tv
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD BUP
-https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/kmrkryQ.png",GALAXY TV
-https://ssh101-fl.bozztv.com/ssh101/galaxygr/playlist.m3u8
+http://ssh101.bozztv.com:80/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV
@@ -41,16 +39,14 @@ https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV SERIES
+https://gra1.crystalweb.net:1936/extacytvseries/extacytvseries/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="",ECTACY TV GREEKZ
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ZEYS TV
-https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
-https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS WORLD
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",MONTAZ TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:9008 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:9010 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
@@ -104,7 +100,7 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:4240 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
 http://verginanews.gr:8080/hls_live/stream1.m3u8
 #EXTINF:5925 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
-https://live.fm100.gr/hls/tv100/index.m3u8
+https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
 #EXTINF:7110 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ojwSJ6l.png",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:7130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
@@ -167,20 +163,24 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 http://127.0.0.1:88/https://www.twitch.tv/livethess03
 #EXTINF:4260 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",DION TV
 https://rtmp.win:3650/live/diontvlive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",KOS TV
+https://eu1.streams.gr:8081/kostv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="WEB TV"tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",HLEKTRA TV
-https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
+https://stream.gia.tv/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GREEK
 https://eco.streams.ovh:8081/barazatv/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GOLD
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV DJ
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV 80S
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV Deep House Music
-https://rpn3.bozztv.com/ssh101/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png",BARAZA TV LAIKA
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 #EXTINF:7001 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/KTtobgv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
@@ -244,18 +244,22 @@ https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:4120 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",STAR B.E.
 http://127.0.0.1:88/https://www.twitch.tv/startvfamdrama
 #EXTINF:5920 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",EURO CHANNEL
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
+http://ssh101.bozztv.com/ssh101/eurochgreece/playlist.m3u8
 #EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",ASTRA TV
 http://127.0.0.1:88/https://www.twitch.tv/astratv2021
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV
 http://127.0.0.1:88/https://www.twitch.tv/xtvision
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",XTV2
 http://127.0.0.1:88/https://www.twitch.tv/xtvision2
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",CHOICE TV
+https://eu1.streams.gr:8081/choicetv/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",GRD CHANNEL
+https://eu1.streams.gr:8081/grdchannel/index.m3u8
 #EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS 
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:5760 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
 http://127.0.0.1:88/https://www.twitch.tv/tvkosmosgr
-#EXTINF:5350 group-title="WEB TV" tvg-logo="",TOP CHANNEL BUP
+#EXTINF:5350 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",TOP CHANNEL BUP
 http://127.0.0.1:88/https://www.twitch.tv/topkozani24
 #EXTINF:5710 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",CENTER TV
 http://127.0.0.1:88/https://www.twitch.tv/centerwebtv
@@ -264,7 +268,7 @@ https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="",MAD WORLD
-https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:9006 group-title="MUSIC" tvg-name="" tvg-logo="",ERT MUSIC
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 #EXTINF:9005 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS

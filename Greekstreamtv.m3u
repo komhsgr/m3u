@@ -16,7 +16,7 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/K6Glpip.png",GROOVY
@@ -159,7 +159,7 @@ https://rtmp.win:3650/live/diontvlive.m3u8
 https://eu1.streams.gr:8081/kostv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="WEB TV"tvg-logo="https://i.imgur.com/DLY2rOM.png",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",HLEKTRA TV
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",HLEKTRA TV
 https://stream.gia.tv/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8

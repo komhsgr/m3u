@@ -247,7 +247,7 @@ https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
 #EXTINF:9500 group-title="WEB TV" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
 https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
-#EXTINF:group-title="WEB TV" tvg-logo="",MEGA COSMOS
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",MEGA COSMOS
 http://cdn.smart-tv-data.com/mega/MegaCosmos/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8

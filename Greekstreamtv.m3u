@@ -162,7 +162,7 @@ https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
 #EXTINF:4440 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://imgur.com/3Js5DYe",HLEKTRA TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://imgur.com/a/pAxi9KP",FORMEDIA
-https://mcp2.32bit.gr:19360/formediatv/formediatv.m3u8
+https://mercury.32bit.gr:19360/formediatv/formediatv.m3u8
 #EXTINF:5960 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/7HkMP0U.png",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:5950 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://imgur.com/a/kn8jmt5",ASTRA TV

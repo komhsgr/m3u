@@ -10,7 +10,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA
 http://wow.anixa.tv/live/mega/playlist.m3u8
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
-https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
 https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD 
@@ -20,11 +20,13 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
-https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:9009 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png",VOULI
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.mpd
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/Iru6bKG",ECTACY TV
 https://eu1.servers10.com:8081/8238/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/Iru6bKG",ECTACY TV CY
+https://eu1.servers10.com:8081/8356/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/Iru6bKG",ECTACY TV Cinema
 https://eu1.servers10.com:8081/8332/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/Iru6bKG",ECTACY TV Greeks
@@ -58,13 +60,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/h5MSgNL",DIPOLO TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:9501 group-title="CINEMA" tvg-logo="https://imgur.com/a/z2AdoKq",ANT1 DRAMA
-https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
+https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 #EXTINF:9500 group-title="CINEMA" tvg-logo="https://imgur.com/a/myZ2qRT",ANT1 COMEDY
-https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
-#EXTINF:2222 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://imgur.com/z0E8NTX",RIK 1
-https://vid1.smartscreen-data.com/RIK1/RIK1/manifest.mpd
-#EXTINF:2223 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://imgur.com/V8rpBDp",RIK 2
-https://vid1.smartscreen-data.com/RIK2/RIK2/manifest.mpd
+https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/ujQHWGy.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png",ANT1 CY
@@ -77,12 +75,6 @@ https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:2221 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://imgur.com/IUsn0jJ",VERGINA TV CY
 http://verginanews.gr:8080/hls_live/stream2.m3u8
-#EXTINF:2229 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://imgur.com/a/StD76z5",PLUS TV
-https://vid1.smartscreen-data.com/PLUS/PLUS/manifest.mpd
-#EXTINF:2230 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://imgur.com/a/YjMbWml",CAPITAL TV
-https://vid1.smartscreen-data.com/CAPITAL/CAPITAL/manifest.mpd
-#EXTINF:2231 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://imgur.com/a/wAxeUWq",ONE TV CY
-https://vid1.smartscreen-data.com/ONECHANNELCY/ONECHANNELCY/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://imgur.com/Jo6jIP1",CITY TV
 https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx$https://dev.aftermind.xyz/
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="",VOYLI TV CY

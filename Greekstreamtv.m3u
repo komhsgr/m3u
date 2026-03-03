@@ -245,6 +245,8 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://imgur.com/pX9UBuZ",PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="",CHANNEL 8
+https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:9005 group-title="KIDS" tvg-name="" tvg-logo="",ERT KIDS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/a/Iru6bKG",EXTACY TV Kids

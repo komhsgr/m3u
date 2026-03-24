@@ -51,10 +51,6 @@ https://stream.gia.tv/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/Z1jzGQz",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="",VILLAGE WORLD
-https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",ELLAS WORLD
-https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/FykRSZV",IONIA TV
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://imgur.com/a/h5MSgNL",DIPOLO TV
@@ -259,8 +255,6 @@ https://571561.gvideo.io/videos/571561_VaPO2RGjAsLiBe4M/master.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="STR-G" tvg-logo="https://i.imgur.com/AazwSEQ.png",STAR INTERNATIONAL 
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="https://imgur.com/gwsTJbX",MAD WORLD
-https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GREEK
 https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV DJ
